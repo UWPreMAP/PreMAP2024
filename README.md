@@ -1,2 +1,2 @@
-# PreMAP2023
-PreMAP lessons and HW for 2023
+# PreMAP2024
+PreMAP lessons and HW for 2024
