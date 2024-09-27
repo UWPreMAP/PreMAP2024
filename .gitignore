@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # Hiding homework and solutions for now
-homework/*
-lessons/*
+homework/
+lessons/
 
 # C extensions
 *.so
