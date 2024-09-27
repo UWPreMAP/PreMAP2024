@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Hiding homework and solutions for now
+homework/*
+lessons/*
+
 # C extensions
 *.so
 
