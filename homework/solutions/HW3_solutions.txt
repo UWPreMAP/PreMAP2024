@@ -1,0 +1,9 @@
+1. /home/jovyan/PreMAP2023/homework/HW3/astr192 (or ~/PreMAP2023/homework/HW3/astr192)
+2. The file is a 'tar ball', made up of compressed files
+3.1 tar -xfz StarData.tar.gz
+3.2 6 files (7 including closest.txt)
+3.3 StarCharts.pdf
+3.4 ls -lh (ls -l, ls -la, ls -s, ls-S are all valid)
+4.1 Cat StarHeader.txt (less is okay too)
+4.2 Num, RA, DE, Vmag, B-V, Parallax, uRA, uDec
+5 head -100 NearStars.dat > closest.txt
